@@ -4,3 +4,8 @@
 
 - 책: http://www.hanbit.co.kr/book/look.html?isbn=978-89-6848-213-7
 - 샘플 코드: http://www.hanbit.co.kr/exam/2213/
+
+| directory | description |
+---------- | ----------
+| original | 원래의 소스 코드 |
+| modified | 원본을 바탕으로 이리저리 고쳐본 코드 |
